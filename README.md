@@ -1,10 +1,6 @@
-# Repositório Template
-Repositório de Template para os projetos da disciplina 
+# Repositório Algoritmos de Busca - Exercícios de LeetCode
 ```
-Nome do Repositório (Apague este tópico)
-  O nome do repositório deve seguir o padrão <TemaProjeto>_<Nome Projeto>.
-  O nome do projeto deve representar o que foi implementado no mesmo (Ex:
-  Game xyz, Implementações Otimizadas de Algoritmos, Aplicativo xpto)
+
 
 Os temas de projeto são:  
  - Busca - Algoritmos de busca  
@@ -18,12 +14,15 @@ Os temas de projeto são:
 ## Alunos  
 | Matrícula | Nome |  
 |-----------------------|---------------------|  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
-| xx/xxxxxxx | xxxx xxxx xxxxx |  
+| 19/0091720 | Lucas Macedo Barboza |  
+| 20/0029088 | Yasmim Oliveira Rosa  |  
+
 ## Descrição do projeto
 Aqui você deve dizer o objetivo deste projeto e o que realmente foi feito neste repositório.
+
 ## Guia de instalação
 Aqui devem estar descritas as dependências do projeto (versões de linguagens e ferramentas) e as instruções necessárias para executar o projeto. 
+
 ### Dependências do projeto
 ### Como executar o projeto
 ## Capturas de tela
