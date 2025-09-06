@@ -19,3 +19,13 @@ A conta é: formas_esquerda × formas_direita × combinação(total, esquerda). 
 Usei busca em árvore pela recursão, cada vez que chamo a função exploro uma parte menor da árvore. Não é busca de um elemento específico, é busca de todas as possibilidades.
 
 A combinatória foi o melhor caminho porque senão teria que testar todas as permutações uma por uma, o que seria muito demorado. Calculando os fatoriais antes, as contas ficaram bem mais rápidas.
+
+## Capturas de Tela (Testes)
+
+![Testes](captura_de_tela.png)
+
+"Testando: [3, 4, 5, 1, 2]" → mostra qual array estou testando
+
+"Árvore:": vai mostrar como a árvore fica depois de inserir os elementos na ordem
+
+"Resultado: 5": quantas outras formas de reordenar existem

@@ -18,17 +18,17 @@ Foram selecionados quatro desafios de nível médio ou difícil na plataforma Le
 
 
 ## Guia de instalação
-O projeto funciona de maneira simples. Apenas as bibliotecas padrão do Python são o suficiente para execução do projeto
+O projeto funciona de maneira simples. Apenas as bibliotecas padrões do Python são o suficiente para execução do projeto.
 
 ### Dependências do projeto
 - Python >= 3.11
 
 ### Como executar o projeto
-## Capturas de tela
-Neste tópico você deve adicionar imagens do funcionamento do projeto.  
- - As imagens devem ser salvas no repositório.
- - Imagens salvas em domínios eternos tendem a ficar indisponíveis e devem ser evitadas.   
-## Conclusões
-Aqui você diz se o algoritmo utilizado foi útil, se tem limitações, etc.
-## Referências
-Caso tenha utilizado algum agoritmo como base, citar o mesmo devidamente para  evitar quaisquer denuncias de plágio.
+- Basta entrar na pasta de cada desafio e executar o arquivo com sufixo "_test". 
+
+## Documentação de cada desafio
+Aqui tem as capturas de tela, conclusões e referências de cada desafio.
+- Adicionar
+- Adicionar
+- [Bus Routes](./bus_router/problem_solution.md)
+- [Number of Ways to Reorder Array to Get Same BST](./reorder_same_bst/problem_solution.md)

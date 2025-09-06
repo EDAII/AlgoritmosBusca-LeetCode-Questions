@@ -17,3 +17,8 @@ Começo da parada origem e vou explorando. Para cada parada, vejo quais ônibus 
 ## Conclusões
 O algoritmo que usei foi uma busca sequencial otimizada com hashing. A busca sequencial básica seria testar parada por parada até achar o destino, mas isso seria muito lento.
 Em vez de procurar linearmente em listas, uso hash (sets e dicionários) que fazem as consultas em tempo constante. Isso transformou as operações que seriam O(n) em O(1).
+
+
+## Capturas de tela (Saída dos testes)
+
+![Teste](captura_de_tela.png)
