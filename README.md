@@ -40,3 +40,7 @@ Aqui tem as capturas de tela, conclusões e referências de cada desafio.
 - [Number of Islands](./number_of_islands/problem_solution.md)
 - [Bus Routes](./bus_router/problem_solution.md)
 - [Number of Ways to Reorder Array to Get Same BST](./reorder_same_bst/problem_solution.md)
+
+
+## Vídeo de Apresentação
+[Link YouTube](https://youtu.be/y8mD7VBJBvc)
